@@ -9,7 +9,7 @@ A basic and responsive web-based calculator built using HTML, CSS, and JavaScrip
 ## 📸 Preview
 
 <!-- Optional: Add a screenshot -->
-![Calculator UI](screenshot.png)
+![Calculator UI](p1.png)
 
 ## 🚀 Features
 
